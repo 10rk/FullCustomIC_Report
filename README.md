@@ -1,5 +1,5 @@
 
-# This page presents full custom IC design works by Virtuoso.
+This page presents full-custom IC design works using Cadence Virtuoso.
 
 
 <img width="960" height="540" alt="Slide1" src="https://github.com/user-attachments/assets/56d081fd-6ab0-48c1-a195-e3c91b17a8d3" />
